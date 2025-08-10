@@ -1,0 +1,14 @@
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\bin\Debug\net8.0\1.2hw.exe
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\bin\Debug\net8.0\1.2hw.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\bin\Debug\net8.0\1.2hw.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\bin\Debug\net8.0\1.2hw.dll
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\bin\Debug\net8.0\1.2hw.pdb
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.dll
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\refint\1.2hw.dll
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.pdb
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\1.2hw.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 1\1.2hw\1.2hw\obj\Debug\net8.0\ref\1.2hw.dll
