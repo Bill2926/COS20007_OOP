@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\swinadventure\\idenobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:idenobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\swinadventure\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A61DFE-F7F4-4867-9826-2DFA73DBEE2A}|..\\ObjTest\\ObjTest.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\objtest\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A61DFE-F7F4-4867-9826-2DFA73DBEE2A}|..\\ObjTest\\ObjTest.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\objtest\\itemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\swinadventure\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\swinadventure\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\swinadventure\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A61DFE-F7F4-4867-9826-2DFA73DBEE2A}|..\\ObjTest\\ObjTest.csproj|c:\\users\\bill\\desktop\\cos20007\\week 4\\iteration 2\\objtest\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:24:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\ObjTest\\InventoryTest.cs",
+              "RelativeDocumentMoniker": "..\\ObjTest\\InventoryTest.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\ObjTest\\InventoryTest.cs",
+              "RelativeToolTip": "..\\ObjTest\\InventoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:23:30.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\ObjTest\\PlayerTest.cs",
+              "RelativeDocumentMoniker": "..\\ObjTest\\PlayerTest.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\ObjTest\\PlayerTest.cs",
+              "RelativeToolTip": "..\\ObjTest\\PlayerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:23:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:31:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:26:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:12:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\ObjTest\\ItemTest.cs",
+              "RelativeDocumentMoniker": "..\\ObjTest\\ItemTest.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\ObjTest\\ItemTest.cs",
+              "RelativeToolTip": "..\\ObjTest\\ItemTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:53:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdenObj.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\IdenObj.cs",
+              "RelativeDocumentMoniker": "IdenObj.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 4\\Iteration 2\\SwinAdventure\\IdenObj.cs",
+              "RelativeToolTip": "IdenObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:14:13.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 2\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 4\Iteration 2\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 5\Iteration 3\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 6\Iteration 4\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\bin\Debug\net8.0\SwinAdventure.exe
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\bin\Debug\net8.0\SwinAdventure.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\bin\Debug\net8.0\SwinAdventure.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\bin\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\bin\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\refint\SwinAdventure.dll
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.pdb
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\SwinAdventure.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 7\Iteration 5\SwinAdventure\obj\Debug\net8.0\ref\SwinAdventure.dll
