@@ -1,0 +1,14 @@
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\bin\Debug\net8.0\QueueApplication.exe
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\bin\Debug\net8.0\QueueApplication.deps.json
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\bin\Debug\net8.0\QueueApplication.dll
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\bin\Debug\net8.0\QueueApplication.pdb
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.dll
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.pdb
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Week 2\QueueApplication\obj\Debug\net8.0\ref\QueueApplication.dll
