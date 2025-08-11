@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|c:\\users\\bill\\desktop\\cos20007\\hurdle test\\hurdletest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|solutionrelative:file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|c:\\users\\bill\\desktop\\cos20007\\hurdle test\\hurdletest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|solutionrelative:folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|c:\\users\\bill\\desktop\\cos20007\\hurdle test\\hurdletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|c:\\users\\bill\\desktop\\cos20007\\hurdle test\\hurdletest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|solutionrelative:thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|c:\\users\\bill\\desktop\\cos20007\\hurdle test\\hurdletest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED10847-1ED2-47D9-841B-6206D1C890FA}|HurdleTest.csproj|solutionrelative:filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\FileSystem.cs",
+              "RelativeDocumentMoniker": "FileSystem.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\FileSystem.cs",
+              "RelativeToolTip": "FileSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:30:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\Thing.cs",
+              "RelativeDocumentMoniker": "Thing.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\Thing.cs",
+              "RelativeToolTip": "Thing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:43:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\File.cs",
+              "RelativeDocumentMoniker": "File.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\File.cs",
+              "RelativeToolTip": "File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:25:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\Folder.cs",
+              "RelativeDocumentMoniker": "Folder.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\Folder.cs",
+              "RelativeToolTip": "Folder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:22:24.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:18:02.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

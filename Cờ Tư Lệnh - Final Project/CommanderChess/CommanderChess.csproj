@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Assets\SoundTrack\**" />
+    <EmbeddedResource Remove="Assets\SoundTrack\**" />
+    <None Remove="Assets\SoundTrack\**" />
+    <Page Remove="Assets\SoundTrack\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\menu_bg.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.2.1" />
+    <PackageReference Include="System.Windows.Extensions" Version="9.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommanderLogic\CommanderLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\menu_bg.jpg" />
+    <Resource Include="Assets\PieceImages\AAG_Blue.png" />
+    <Resource Include="Assets\PieceImages\AAG_Red.png" />
+    <Resource Include="Assets\PieceImages\AAM_Blue.png" />
+    <Resource Include="Assets\PieceImages\AAM_Red.png" />
+    <Resource Include="Assets\PieceImages\AF_Blue.png" />
+    <Resource Include="Assets\PieceImages\AF_Red.png" />
+    <Resource Include="Assets\PieceImages\Artillery_Blue.png" />
+    <Resource Include="Assets\PieceImages\Artillery_Red.png" />
+    <Resource Include="Assets\PieceImages\Commander_Blue.png" />
+    <Resource Include="Assets\PieceImages\Commander_Red.png" />
+    <Resource Include="Assets\PieceImages\Engineer_Blue.png" />
+    <Resource Include="Assets\PieceImages\Engineer_Red.png" />
+    <Resource Include="Assets\PieceImages\HQ_Blue.png" />
+    <Resource Include="Assets\PieceImages\HQ_Red.png" />
+    <Resource Include="Assets\PieceImages\Infantry_Blue.png" />
+    <Resource Include="Assets\PieceImages\Infantry_Red.png" />
+    <Resource Include="Assets\PieceImages\Militia_Blue.png" />
+    <Resource Include="Assets\PieceImages\Militia_Red.png" />
+    <Resource Include="Assets\PieceImages\Navy_Blue.png" />
+    <Resource Include="Assets\PieceImages\Navy_Red.png" />
+    <Resource Include="Assets\PieceImages\Tank_Blue.png" />
+    <Resource Include="Assets\PieceImages\Tank_Red.png" />
+  </ItemGroup>
+
+</Project>

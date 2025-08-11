@@ -1,0 +1,28 @@
+C:\msys64\home\Bill\ShapeDrawer2\bin\Debug\net8.0\ShapeDrawer2.exe
+C:\msys64\home\Bill\ShapeDrawer2\bin\Debug\net8.0\ShapeDrawer2.deps.json
+C:\msys64\home\Bill\ShapeDrawer2\bin\Debug\net8.0\ShapeDrawer2.runtimeconfig.json
+C:\msys64\home\Bill\ShapeDrawer2\bin\Debug\net8.0\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer2\bin\Debug\net8.0\ShapeDrawer2.pdb
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.AssemblyInfoInputs.cache
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.AssemblyInfo.cs
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.csproj.CoreCompileInputs.cache
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\refint\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.pdb
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ShapeDrawer2.genruntimeconfig.cache
+C:\msys64\home\Bill\ShapeDrawer2\obj\Debug\net8.0\ref\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer (week 4)\bin\Debug\net8.0\ShapeDrawer2.exe
+C:\msys64\home\Bill\ShapeDrawer (week 4)\bin\Debug\net8.0\ShapeDrawer2.deps.json
+C:\msys64\home\Bill\ShapeDrawer (week 4)\bin\Debug\net8.0\ShapeDrawer2.runtimeconfig.json
+C:\msys64\home\Bill\ShapeDrawer (week 4)\bin\Debug\net8.0\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer (week 4)\bin\Debug\net8.0\ShapeDrawer2.pdb
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.AssemblyInfoInputs.cache
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.AssemblyInfo.cs
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.csproj.CoreCompileInputs.cache
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\refint\ShapeDrawer2.dll
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.pdb
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ShapeDrawer2.genruntimeconfig.cache
+C:\msys64\home\Bill\ShapeDrawer (week 4)\obj\Debug\net8.0\ref\ShapeDrawer2.dll

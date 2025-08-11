@@ -1,0 +1,4 @@
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0-windows\CommanderLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0-windows\CommanderLogic.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0-windows\CommanderLogic.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0-windows\CommanderLogic.csproj.CoreCompileInputs.cache

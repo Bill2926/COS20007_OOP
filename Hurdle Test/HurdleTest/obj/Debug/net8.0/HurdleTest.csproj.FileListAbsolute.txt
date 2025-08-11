@@ -1,0 +1,14 @@
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\bin\Debug\net8.0\HurdleTest.exe
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\bin\Debug\net8.0\HurdleTest.deps.json
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\bin\Debug\net8.0\HurdleTest.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\bin\Debug\net8.0\HurdleTest.dll
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\bin\Debug\net8.0\HurdleTest.pdb
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.dll
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\refint\HurdleTest.dll
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.pdb
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\HurdleTest.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\Hurdle Test\HurdleTest\obj\Debug\net8.0\ref\HurdleTest.dll

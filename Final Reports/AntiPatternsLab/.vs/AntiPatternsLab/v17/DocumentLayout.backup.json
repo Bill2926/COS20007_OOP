@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bill\\Desktop\\COS20007\\AntiPatternsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DEBE61-635F-4C2D-80B2-6054A674774A}|AntiPatternsLab.csproj|c:\\users\\bill\\desktop\\cos20007\\antipatternslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DEBE61-635F-4C2D-80B2-6054A674774A}|AntiPatternsLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DEBE61-635F-4C2D-80B2-6054A674774A}|AntiPatternsLab.csproj|c:\\users\\bill\\desktop\\cos20007\\antipatternslab\\godobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DEBE61-635F-4C2D-80B2-6054A674774A}|AntiPatternsLab.csproj|solutionrelative:godobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 345,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GodObject.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\AntiPatternsLab\\GodObject.cs",
+              "RelativeDocumentMoniker": "GodObject.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\AntiPatternsLab\\GodObject.cs*",
+              "RelativeToolTip": "GodObject.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:09:17.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\AntiPatternsLab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\AntiPatternsLab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:07:48.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

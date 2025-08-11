@@ -1,0 +1,14 @@
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\bin\Debug\net8.0\AntiPatternsLab.exe
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\bin\Debug\net8.0\AntiPatternsLab.deps.json
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\bin\Debug\net8.0\AntiPatternsLab.runtimeconfig.json
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\bin\Debug\net8.0\AntiPatternsLab.dll
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\bin\Debug\net8.0\AntiPatternsLab.pdb
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.dll
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\refint\AntiPatternsLab.dll
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.pdb
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\AntiPatternsLab.genruntimeconfig.cache
+C:\Users\Bill\Desktop\COS20007\AntiPatternsLab\obj\Debug\net8.0\ref\AntiPatternsLab.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|c:\\msys64\\home\\bill\\shapedrawer (week 4)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|c:\\msys64\\home\\bill\\shapedrawer (week 4)\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|c:\\msys64\\home\\bill\\shapedrawer (week 4)\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|c:\\msys64\\home\\bill\\shapedrawer (week 4)\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|c:\\msys64\\home\\bill\\shapedrawer (week 4)\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|c:\\msys64\\home\\bill\\shapedrawer (week 4)\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88645E69-8CF0-2905-7EF5-5DAB37271564}|ShapeDrawer2.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:27:39.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wDMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:15:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:47:14.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:09:58.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:42:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\msys64\\home\\Bill\\ShapeDrawer (week 4)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:42:28.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

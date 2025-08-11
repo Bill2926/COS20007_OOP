@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}|..\\CommanderLogic\\CommanderLogic.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderlogic\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}|..\\CommanderLogic\\CommanderLogic.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderlogic\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA8261-5A75-4A2D-BEF7-16569A999637}|CommanderChess.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderchess\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA8261-5A75-4A2D-BEF7-16569A999637}|CommanderChess.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}|..\\CommanderLogic\\CommanderLogic.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderlogic\\soundcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}|..\\CommanderLogic\\CommanderLogic.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderlogic\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}|..\\CommanderLogic\\CommanderLogic.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderlogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA8261-5A75-4A2D-BEF7-16569A999637}|CommanderChess.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderchess\\view\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA8261-5A75-4A2D-BEF7-16569A999637}|CommanderChess.csproj|solutionrelative:view\\logview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA8261-5A75-4A2D-BEF7-16569A999637}|CommanderChess.csproj|c:\\users\\bill\\desktop\\cos20007\\c\u1EDD t\u01B0 l\u1EC7nh - final project\\commanderchess\\view\\graveyardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA8261-5A75-4A2D-BEF7-16569A999637}|CommanderChess.csproj|solutionrelative:view\\graveyardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 345,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\CommanderLogic\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\GameManager.cs",
+              "RelativeToolTip": "..\\CommanderLogic\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:18:01.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\GameResult.cs",
+              "RelativeDocumentMoniker": "..\\CommanderLogic\\GameResult.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\GameResult.cs",
+              "RelativeToolTip": "..\\CommanderLogic\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:49:23.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\Direction.cs",
+              "RelativeDocumentMoniker": "..\\CommanderLogic\\Direction.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\Direction.cs",
+              "RelativeToolTip": "..\\CommanderLogic\\Direction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:47:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\Board.cs",
+              "RelativeDocumentMoniker": "..\\CommanderLogic\\Board.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\Board.cs",
+              "RelativeToolTip": "..\\CommanderLogic\\Board.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:47:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundControl.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\SoundControl.cs",
+              "RelativeDocumentMoniker": "..\\CommanderLogic\\SoundControl.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderLogic\\SoundControl.cs",
+              "RelativeToolTip": "..\\CommanderLogic\\SoundControl.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:07:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAmwCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:07:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogView.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\View\\LogView.cs",
+              "RelativeDocumentMoniker": "View\\LogView.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\View\\LogView.cs",
+              "RelativeToolTip": "View\\LogView.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:27:00.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GraveyardView.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\View\\GraveyardView.cs",
+              "RelativeDocumentMoniker": "View\\GraveyardView.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\C\u1EDD T\u01B0 L\u1EC7nh - Final Project\\CommanderChess\\View\\GraveyardView.cs",
+              "RelativeToolTip": "View\\GraveyardView.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T18:25:55.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

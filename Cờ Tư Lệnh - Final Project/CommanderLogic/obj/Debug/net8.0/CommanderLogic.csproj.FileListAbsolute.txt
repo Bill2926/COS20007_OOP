@@ -1,0 +1,12 @@
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.AssemblyInfoInputs.cache
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.AssemblyInfo.cs
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\bin\Debug\net8.0\CommanderLogic.deps.json
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\bin\Debug\net8.0\CommanderLogic.dll
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\bin\Debug\net8.0\CommanderLogic.pdb
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.dll
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\refint\CommanderLogic.dll
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.pdb
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\ref\CommanderLogic.dll
+C:\Users\Bill\Desktop\COS20007\Cờ Tư Lệnh - Final Project\CommanderLogic\obj\Debug\net8.0\CommanderLogic.csproj.AssemblyReference.cache

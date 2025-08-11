@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 10\\iteration 8\\swinadventure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A61DFE-F7F4-4867-9826-2DFA73DBEE2A}|..\\ObjTest\\ObjTest.csproj|c:\\users\\bill\\desktop\\cos20007\\week 10\\iteration 8\\objtest\\inventorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 10\\iteration 8\\swinadventure\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 10\\iteration 8\\swinadventure\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|c:\\users\\bill\\desktop\\cos20007\\week 10\\iteration 8\\swinadventure\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F52D90A-50AC-4635-8606-BCAEFCA6055C}|SwinAdventure.csproj|solutionrelative:lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:02:30.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\ObjTest\\InventoryTest.cs",
+              "RelativeDocumentMoniker": "..\\ObjTest\\InventoryTest.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\ObjTest\\InventoryTest.cs",
+              "RelativeToolTip": "..\\ObjTest\\InventoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:43:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\MoveCommand.cs",
+              "RelativeDocumentMoniker": "MoveCommand.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\MoveCommand.cs",
+              "RelativeToolTip": "MoveCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:43:03.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\LookCommand.cs",
+              "RelativeDocumentMoniker": "LookCommand.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\LookCommand.cs",
+              "RelativeToolTip": "LookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:51:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\Command.cs",
+              "RelativeDocumentMoniker": "Command.cs",
+              "ToolTip": "C:\\Users\\Bill\\Desktop\\COS20007\\Week 10\\Iteration 8\\SwinAdventure\\Command.cs",
+              "RelativeToolTip": "Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:54:47.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jMBde9rVlu0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bill\\Desktop\\COS20007\\Hurdle Test\\HurdleTest\\HurdleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bill\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.15\\microsoft.dotnet.ilcompiler.8.0.15.nupkg.sha512",
+    "C:\\Users\\Bill\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+    "C:\\Users\\Bill\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.15\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

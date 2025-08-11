@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommanderChess", "CommanderChess.csproj", "{1BDA8261-5A75-4A2D-BEF7-16569A999637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommanderLogic", "..\CommanderLogic\CommanderLogic.csproj", "{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDA8261-5A75-4A2D-BEF7-16569A999637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDA8261-5A75-4A2D-BEF7-16569A999637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDA8261-5A75-4A2D-BEF7-16569A999637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDA8261-5A75-4A2D-BEF7-16569A999637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAFCAE1-0786-44C0-9E14-F2C9B928DD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228CF75B-2FB0-4144-BA6B-4B8E6AB286AB}
+	EndGlobalSection
+EndGlobal

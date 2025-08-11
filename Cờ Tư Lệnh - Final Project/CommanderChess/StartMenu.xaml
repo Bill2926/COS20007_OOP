@@ -1,0 +1,95 @@
+﻿<UserControl x:Class="CommanderChess.StartMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CommanderChess"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Background>
+        <ImageBrush ImageSource="/Assets/menu_bg.jpg"
+                    Stretch="UniformToFill"
+                    Opacity="0.9"/>
+    </UserControl.Background>
+    
+    <Border Width="275"
+            Height="125"
+            Style="{StaticResource BorderStyle}">
+        <Grid x:Name="MainGrid">
+            <Grid x:Name="StartMenuGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.ColumnSpan="3"
+                        x:Name="StartText"
+                        Text="START THE GAME ?"
+                        Style="{StaticResource TextStyle}"
+                        FontSize="28"/>
+
+                <Button Grid.Row="1"
+                        Content="Start"
+                        Style="{StaticResource ButtonStyle}"
+                        Width="80"
+                        Height="30"
+                        Click="Start"/>
+
+                <Button Grid.Row="3"
+                    Grid.Column="1"
+                    Content="🔊"
+                    Style="{StaticResource ButtonStyle}"
+                    Width="80"
+                    Height="30"
+                    Click="Mute"/>
+
+                <Button Grid.Row="2"
+                        Grid.Column="2"
+                        Content="Exit"
+                        Style="{StaticResource ButtonStyle}"
+                        Width="80"
+                        Height="30"
+                        Click="Exit"/>
+            </Grid>
+            
+            <!-- time setup -->
+            <Grid x:Name="TimeMenuGrid" Visibility="Collapsed">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Grid.ColumnSpan="2"
+                           Text="CHOOSE THE CLOCK TIME"
+                           Style="{StaticResource TextStyle}"
+                           FontSize="20"/>
+                <ComboBox Grid.Row="1" x:Name="TimeSelection"
+                          Style="{StaticResource ComboBoxStyle}"
+                          Height="30"
+                          SelectedIndex="0">
+                    <ComboBoxItem>1</ComboBoxItem>
+                    <ComboBoxItem>3</ComboBoxItem>
+                    <ComboBoxItem>5</ComboBoxItem>
+                    <ComboBoxItem>10</ComboBoxItem>
+                </ComboBox>
+                <Button Grid.Row="1"
+                        Grid.Column="1"
+                        Content="Confirm"
+                        Style="{StaticResource ButtonStyle}"
+                        Width="80"
+                        Click="ConfirmTime"/>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

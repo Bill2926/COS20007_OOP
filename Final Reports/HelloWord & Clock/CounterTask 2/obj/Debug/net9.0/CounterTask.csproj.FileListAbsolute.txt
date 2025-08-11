@@ -1,0 +1,28 @@
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.AssemblyInfoInputs.cache
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.AssemblyInfo.cs
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\msys64\home\Bill\CounterTask\bin\Debug\net9.0\CounterTask.exe
+C:\msys64\home\Bill\CounterTask\bin\Debug\net9.0\CounterTask.deps.json
+C:\msys64\home\Bill\CounterTask\bin\Debug\net9.0\CounterTask.runtimeconfig.json
+C:\msys64\home\Bill\CounterTask\bin\Debug\net9.0\CounterTask.dll
+C:\msys64\home\Bill\CounterTask\bin\Debug\net9.0\CounterTask.pdb
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.dll
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\refint\CounterTask.dll
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.pdb
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\CounterTask.genruntimeconfig.cache
+C:\msys64\home\Bill\CounterTask\obj\Debug\net9.0\ref\CounterTask.dll
+C:\msys64\home\Bill\CounterTask 2\bin\Debug\net9.0\CounterTask.exe
+C:\msys64\home\Bill\CounterTask 2\bin\Debug\net9.0\CounterTask.deps.json
+C:\msys64\home\Bill\CounterTask 2\bin\Debug\net9.0\CounterTask.runtimeconfig.json
+C:\msys64\home\Bill\CounterTask 2\bin\Debug\net9.0\CounterTask.dll
+C:\msys64\home\Bill\CounterTask 2\bin\Debug\net9.0\CounterTask.pdb
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.AssemblyInfoInputs.cache
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.AssemblyInfo.cs
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.dll
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\refint\CounterTask.dll
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.pdb
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\CounterTask.genruntimeconfig.cache
+C:\msys64\home\Bill\CounterTask 2\obj\Debug\net9.0\ref\CounterTask.dll
